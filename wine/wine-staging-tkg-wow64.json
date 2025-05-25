@@ -1,5 +1,93 @@
 [
     {
+        "name": "wine-10.8-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.8 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.8/wine-10.8-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-10.7-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.7 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.7/wine-10.7-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-10.6-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.6 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.6/wine-10.6-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-10.5-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.5 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.5/wine-10.5-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-10.4-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.4 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.4/wine-10.4-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-10.3-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.3 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.3/wine-10.3-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-10.2-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.2 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.2/wine-10.2-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "wine-10.1-staging-tkg-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.1 WoW64",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.1/wine-10.1-staging-tkg-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "wine-10.0-staging-tkg-amd64-wow64",
         "title": "Wine-Staging-TkG 10.0 WoW64",
         "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.0/wine-10.0-staging-tkg-amd64-wow64.tar.xz",
