@@ -1,12 +1,16 @@
 {
     "wine": [
         {
-            "name": "wine-staging-tkg",
-            "title": "Wine-Staging-TkG"
+            "name": "wine-staging-tkg-wow64-ntsync",
+            "title": "Wine-Staging-TkG WoW64 NTSync"
         },
         {
             "name": "wine-staging-tkg-wow64",
             "title": "Wine-Staging-TkG WoW64"
+        },
+        {
+            "name": "wine-staging-tkg",
+            "title": "Wine-Staging-TkG"
         },
         {
             "name": "wine-ge-proton",
